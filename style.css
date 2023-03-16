@@ -28,6 +28,7 @@ body {
   padding-bottom: 1%;
   left: 3%;
   top: 4%;
+  cursor: pointer;
 }
 .Edit {
   position: absolute;
@@ -42,6 +43,7 @@ body {
   padding-bottom: 0.5%;
   left: 25%;
   top: 5%;
+  cursor: pointer;
 }
 .del {
   position: absolute;
@@ -56,6 +58,7 @@ body {
   padding-bottom: 0.5%;
   left: 35%;
   top: 5%;
+  cursor: pointer;
 }
 .name {
   position: absolute;
@@ -161,6 +164,7 @@ body {
   padding-left: 4%;
   padding-right: 4%;
   padding-bottom: 0.5%;
+  cursor: pointer;
   left: 71%;
   top: 88%;
 }
@@ -169,6 +173,7 @@ body {
   background-color: white;
   font-size: 100%;
   font-weight: 700;
+  cursor: pointer;
   /* font-weight: 900px; */
   color: red;
   border: 5px solid red;
